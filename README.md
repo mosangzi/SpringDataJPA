@@ -1,2 +1,2 @@
 # SpringDataJPA
-spring data jpa demo
+Demo for how to use spring data JPA
